@@ -19,6 +19,9 @@
     <AssemblyName>ultramcp</AssemblyName>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/KirillOsenkov/UltraMcp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/KirillOsenkov/UltraMcp</RepositoryUrl>
+    <PackageTags>mcp;model-context-protocol;profiler;ultra;firefox-profiler;trace;etw;performance;diagnostics;llm;ai</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
