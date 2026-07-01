@@ -17,6 +17,8 @@
     <Description>A Model Context Protocol (MCP) server that exposes Ultra / Firefox-Profiler .json profiles to LLMs.</Description>
     <RootNamespace>UltraMcp</RootNamespace>
     <AssemblyName>ultramcp</AssemblyName>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
@@ -29,6 +31,7 @@
       <LogicalName>LlmGuide.md</LogicalName>
     </EmbeddedResource>
     <None Include="THIRD-PARTY-NOTICES.txt" Pack="true" PackagePath="" />
+    <None Include="..\..\README.md" Pack="true" PackagePath="" />
   </ItemGroup>
 
 
